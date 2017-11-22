@@ -4,7 +4,15 @@
 برای ارسال و در یافت پیام می توان از دستورات زیر استفاده نمود
 </p>
 
-```
+```js
+const TelegramBot = require('node-telegram-bot-api');
+
+// replace the value below with the Telegram token you receive from @BotFather
+const token = 'YOUR_TELEGRAM_BOT_TOKEN';
+
+// Create a bot that uses 'polling' to fetch new updates
+const bot = new TelegramBot(token, {polling: true});
+
 // Matches "/echo [whatever]"
 bot.onText(/\/echo (.+)/, (msg, match) => {
   // 'msg' is the received Message from Telegram
@@ -30,7 +38,7 @@ bot.on('message', (msg) => {
 
 # مثال
 
-```
+```js
 bot.onText(/\/start/, (msg) => {
 
     const opts = {
