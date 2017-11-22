@@ -30,6 +30,7 @@ bot.on('message', (msg) => {
 
 # مثال
 
+```
 bot.onText(/\/start/, (msg) => {
 
     const opts = {
@@ -40,3 +41,4 @@ bot.onText(/\/start/, (msg) => {
     };
     bot.sendMessage(msg.chat.id, `سلام به ربات خوش آمدید.`, opts);
 });
+```
