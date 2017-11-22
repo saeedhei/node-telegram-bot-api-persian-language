@@ -2,7 +2,7 @@
 🇮🇷 به زبان فارسی **node-telegram-bot-api** ماژول
 
 
-## بخش آموزش ها
+##<p dir='rtl' align='right'>بخش آموزش ها</p> 
 
 * [BotFather ساخت ربات تلگرام توسط][create-a-bot]
 * [node-telegram-bot-api نصب][install-node-telegram-bot-api]
