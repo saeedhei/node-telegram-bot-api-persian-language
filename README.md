@@ -1,5 +1,5 @@
 # node-telegram-bot-api-persian-language
-🇮🇷 به زبان فارسی node-telegram-bot-api ماژول
+🇮🇷 به زبان فارسی **node-telegram-bot-api** ماژول
 
 
 ## بخش آموزش ها
