@@ -1,4 +1,7 @@
 # node-telegram-bot-api-persian-language
+
+[![https://telegram.me/NTBA_Persian_Developers](https://img.shields.io/badge/💬%20Telegram-node--telegram--bot--api--persian--language-blue.svg)](https://telegram.me/NTBA_Persian_Developers)
+[![https://telegram.me/saeedseo](https://img.shields.io/badge/💬%20Telegram-saeedseo-blue.svg)](https://telegram.me/saeedseo)
 🇮🇷 به زبان فارسی **node-telegram-bot-api** ماژول
 
 
