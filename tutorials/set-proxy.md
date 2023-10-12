@@ -24,3 +24,6 @@ const bot = new TelegramBot(token, {
 </p>
 
 <https://github.com/yagop/node-telegram-bot-api/issues/253>
+
+[Updated by @NabiKAZ](https://github.com/NabiKAZ)
+
